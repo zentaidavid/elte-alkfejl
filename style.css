@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p + p {
+    font-weight: bold;
+}
+
+.listitem{
+    background: yellow;
+}
+
+p span {
+    color: red;
+}
